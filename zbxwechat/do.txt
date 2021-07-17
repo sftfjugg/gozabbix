@@ -1,0 +1,5 @@
+alert2wx.exe -agentid=794723 -corpid=dingd6757aa75040e32b -corpsecret=z
+C5Jbed9Sx8o9ZwfN4QgFo420WWlKw8NbSDYvk6Qin7gflFIIYLSeq4ZrdOVpk1o -to=manager5675 -msg="{ \"from\": \"Tomcat03\"
+, \"time\": \"2016.07.28 14:45:24\", \"level\": \"Warning\", \"name\": \"Response time is too high on Tomcat03\", \"key\": \"icmppingsec
+\", \"value\": \"31ms\", \"now\": \"31ms\", \"id\": \"1618\", \"ip\": \"10.139.105.107\", \"color\":\"FF4A934A\", \"age\":\"3m\", \"reco
+veryTime\":\"2016.07.28 14:48:24\", \"status\":\"OK\" }"
